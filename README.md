@@ -1,4 +1,13 @@
-## Hi there 👋
+## Howdy, its articuno115 here with my personal repository.
+
+# I'm currently working on...
+how to code in C. I'm taking this class called Real-Time Software Development and I'm excited to learn from this really cool professor who knows pretty much everything there is to know about C.
+
+# Outside of work, I enjoy...
+playing videogames, namely BO3 zombies and Rocket League. I just redownloaded Rocket League and hope to become a supersonic legend in both rocket league and C coding by the end of the semester.
+
+## I'm looking to collaborate on...
+coding in C. I need to get good at coding before my capstone since I'm one of the software engineers, and this class seems to be a great thing to be a part of.
 
 <!--
 **Articuno115/articuno115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
